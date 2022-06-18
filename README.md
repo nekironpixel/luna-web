@@ -1,2 +1,2 @@
 # luna-web
-Trabajo de pagina web para Luna Martinez
+Trabajo de pagina web para pagina de CEO y Marketing
